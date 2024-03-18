@@ -5,4 +5,5 @@ public class multiply {
         int c = a*b;
         System.out.println("Addition Of two numbers are : " + c );
     }
+
 }
